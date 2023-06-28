@@ -1,5 +1,8 @@
-Listof Tools to Work With:
-Office
+List of Tools to Work With:
+Office Space
 Computers
 Desks
 Solutions
+Power
+Personnel
+Cars
