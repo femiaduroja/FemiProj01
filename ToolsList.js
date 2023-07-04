@@ -6,3 +6,10 @@ Solutions
 Power
 Personnel
 Cars
+Office
+Furniture
+Writing Tools
+Folders and Files
+Data Subscription
+Software
+
