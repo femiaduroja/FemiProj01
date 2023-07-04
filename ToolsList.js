@@ -6,3 +6,5 @@ Solutions
 Power
 Personnel
 Cars
+Data Subscription
+Software
